@@ -1,0 +1,2 @@
+# Python-and-SQL---Segmenting-Customers
+Real anonymized Czech bank transactions, account info, and loan records released for a bank in Prague. The idea is to create a datamart from the existing data to analyze which customers are ideal and which are not (i.e. customer segmentation); the creation of the datamart was completed through Python's SQL queries for joining tables, while Pandas and other libraries were used for analysis and visualization.
